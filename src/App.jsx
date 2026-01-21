@@ -12,7 +12,7 @@ export const App = () => {
   return (
     <div>
 
-<Router basename="/learncodingfast">
+<Router basename="/react">
   <div className="d-flex flex-column min-vh-100">
 
  <NavbarList/>
